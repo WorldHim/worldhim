@@ -1,4 +1,4 @@
-![Welcome](https://api.xecades.xyz/api?codeforces=WorldHim&github=WorldHim&email=worldhim%40outlook.com&img=1&bilibili=WorldHim|565437509&luogu=WorldHim|165609)
+![](https://api.xecades.xyz/api?codeforces=WorldHim&github=WorldHim&email=worldhim%40outlook.com&img=1&bilibili=WorldHim|565437509&luogu=WorldHim|165609)
 ### I'm WorldHim
 --------
 #### An `OIer` && `Student`
