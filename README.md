@@ -3,7 +3,7 @@
 --------
 #### An `OIer` && `Student`
 #### QQ[:](aHR0cHM6Ly9iYXNlNjQudXMvI2Q9TXpJeU5ESTRPRGczTWc9PQ==)不告诉你😜😎
-[![WorldHim's github stats](https://gayhub-readme-stats.vercel.app/api?username=WorldHim)](https://github.com/WorldHim)
+[![WorldHim's github stats](https://github-readme-stats.vercel.app/api?username=WorldHim)](https://github.com/WorldHim)
 
 [![Page Views Count](https://badges.toozhao.com/badges/01GF5PT6V9X8C5NXK7PWNF2QH3/green.svg)](https://badges.toozhao.com/stats/01GF5PT6V9X8C5NXK7PWNF2QH3 "主页访问次数")
 
