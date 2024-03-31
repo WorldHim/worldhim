@@ -1,10 +1,7 @@
-![](https://api.xecades.xyz/api?img=2&site=worldhim.cf&email=WorldHim%40outlook.com&luogu=WorldHim&codeforces=WorldHim&bilibili=WorldHim)
+![](https://api.xecades.xyz/api?img=2&site=worldhim.eu.org&email=worldhim%40hotmail.com&luogu=WorldHim&codeforces=WorldHim&bilibili=WorldHim)
 ### I'm WorldHim
 --------
-#### An `OIer` && `Student`
-#### QQ[:](aHR0cHM6Ly9iYXNlNjQudXMvI2Q9TXpJeU5ESTRPRGczTWc9PQ==)不告诉你😜😎
-
-<!-- [![WorldHim's github stats](https://github-readme-stats.vercel.app/api?username=WorldHim)](https://github.com/WorldHim) -->
+#### `OIer` & `Student`
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
