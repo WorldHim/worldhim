@@ -1,5 +1,4 @@
 ![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/postcard.svg)
-### I'm WorldHim
 
 --------
 
