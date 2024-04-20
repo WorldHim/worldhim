@@ -1,4 +1,4 @@
-![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/head.svg)
+![](https://api.xecades.xyz/api?email=worldhim%40hotmail.com&github=WorldHim&bilibili=WorldHim&codeforces=WorldHim&luogu=WorldHim&img=2)
 
 ![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/postcard.svg)
 
