@@ -1,7 +1,5 @@
 ![](https://api.xecades.xyz/api?email=worldhim%40hotmail.com&github=WorldHim&bilibili=WorldHim&codeforces=WorldHim&luogu=WorldHim&img=2)
 
-![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/postcard.svg)
-
 <!-- Badges -->
 <div align="center">
 <a herf="https://github.com/WorldHim"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FWorldHim&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600" /></a>
