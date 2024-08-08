@@ -15,6 +15,79 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2030%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 235.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 91 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 47 Public Repositories 
+ > 
+> 🔑 7 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                38 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+🌆 Daytime                75 commits          ████████░░░░░░░░░░░░░░░░░   30.99 % 
+🌃 Evening                111 commits         ███████████░░░░░░░░░░░░░░   45.87 % 
+🌙 Night                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   36 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Tuesday                  28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Wednesday                38 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Thursday                 19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Friday                   46 commits          █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Saturday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Sunday                   42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Visual Basic .NET        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
+
+
+ Last Updated on 08/08/2024 03:00:21 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
