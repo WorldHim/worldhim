@@ -14,4 +14,7 @@
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
-![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+[![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
