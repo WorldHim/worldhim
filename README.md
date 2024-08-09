@@ -15,7 +15,7 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -56,16 +56,24 @@ Sunday                   42 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    4 hrs 45 mins       ███████████████████░░░░░░   76.40 % 
+Markdown                 1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+Git                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Edge                     4 hrs 45 mins       ███████████████████░░░░░░   76.40 % 
+VS Code                  1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+PCL2-NewsHomepage        5 hrs 23 mins       ██████████████████████░░░   86.36 % 
+worldhim                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+waka-readme-stats        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+actions                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Light-Beacon             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +93,7 @@ Visual Basic .NET        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2024 18:40:22 UTC
+ Last Updated on 09/08/2024 18:39:21 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
