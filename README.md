@@ -15,13 +15,15 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 235.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 105 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,23 +58,20 @@ Sunday                   42 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    30 hrs 29 mins      █████████████████████████   99.65 % 
-SSH Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    32 hrs 16 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     30 hrs 29 mins      █████████████████████████   99.67 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Edge                     32 hrs 16 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Starlight                10 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   32.77 % 
-oauth                    7 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-Clash-for-Windows_Chinese5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-CreateCrystalClear-Fabric3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-PCL2-NewsHomepage        1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Starlight                17 hrs 24 mins      █████████████░░░░░░░░░░░░   53.96 % 
+Clash-for-Windows_Chinese5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+CreateCrystalClear-Fabric3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+oauth                    2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+fabulously-optimized     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 💻 Operating System: 
-Windows                  30 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  32 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +91,7 @@ Visual Basic .NET        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2024 18:39:00 UTC
+ Last Updated on 17/08/2024 18:37:10 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
