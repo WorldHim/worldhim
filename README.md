@@ -15,13 +15,15 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 235.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 105 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,20 +58,20 @@ Sunday                   42 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    23 hrs 6 mins       █████████████████████████   100.00 % 
+Other                    14 hrs 40 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     23 hrs 6 mins       █████████████████████████   100.00 % 
+Edge                     14 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Starlight                15 hrs 46 mins      █████████████████░░░░░░░░   68.30 % 
-akari-bot                4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-PCL2                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-dendrite                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-PCL2-NewsHomepage        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Starlight                7 hrs 23 mins       █████████████░░░░░░░░░░░░   50.36 % 
+akari-bot                5 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   34.52 % 
+PCL2                     2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+PCL2-NewsHomepage        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+MinecraftForge           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Windows                  23 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +91,7 @@ Visual Basic .NET        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2024 18:39:25 UTC
+ Last Updated on 23/08/2024 18:38:59 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
