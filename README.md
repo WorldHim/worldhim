@@ -15,7 +15,7 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,16 +58,20 @@ Sunday                   42 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 45 mins       █████████████████████████   100.00 % 
+Other                    7 hrs 9 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     4 hrs 45 mins       █████████████████████████   100.00 % 
+Edge                     7 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-akari-bot                4 hrs 45 mins       █████████████████████████   100.00 % 
+akari-bot                6 hrs 47 mins       ████████████████████████░   94.73 % 
+Conbot                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+OpenBMCLAPI-Dashboard-API4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+akaribot-module-obastatus3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+nonebot-plugin-obastatus 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Windows                  4 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +91,7 @@ Visual Basic .NET        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2024 18:40:38 UTC
+ Last Updated on 30/08/2024 18:40:47 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
