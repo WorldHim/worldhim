@@ -15,11 +15,15 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2038%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 235.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,6 +31,47 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+🌆 Daytime                119 commits         █████████░░░░░░░░░░░░░░░░   35.00 % 
+🌃 Evening                144 commits         ███████████░░░░░░░░░░░░░░   42.35 % 
+🌙 Night                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Tuesday                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Wednesday                47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Thursday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Friday                   58 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Saturday                 66 commits          █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Sunday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   2 hrs 42 mins       ███████████████████████░░   91.29 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Git                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 58 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+akaribot-module-obastatus2 hrs 58 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -44,7 +89,7 @@ Visual Basic .NET        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2024 18:39:32 UTC
+ Last Updated on 09/09/2024 18:41:33 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
