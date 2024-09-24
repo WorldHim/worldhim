@@ -23,8 +23,6 @@
 
 > 📦 235.9 kB Used in GitHub's Storage 
  > 
-> 🏆 129 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 49 Public Repositories 
@@ -58,19 +56,18 @@ Sunday                   56 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 12 mins       ██████████████████████░░░   87.42 % 
-JSON                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Python                   2 hrs 19 mins       ████████████████████████░   95.29 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-akaribot-module-obastatus1 hr 52 mins        █████████████░░░░░░░░░░░░   51.07 % 
-akaribot-module-mcimstatu54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-akaribot-module-93@home  53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+akaribot-module-obastatus1 hr 31 mins        ████████████████░░░░░░░░░   62.87 % 
+akaribot-module-mcimstatu54 mins             █████████░░░░░░░░░░░░░░░░   37.13 % 
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +87,7 @@ Visual Basic .NET        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2024 18:42:22 UTC
+ Last Updated on 24/09/2024 18:43:12 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
