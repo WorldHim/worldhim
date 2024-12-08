@@ -15,15 +15,13 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 259.5 kB Used in GitHub's Storage 
- > 
-> 🏆 207 Contributions in the Year 2024
+> 📦 259.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,21 +56,25 @@ Sunday                   64 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 46 mins        ██████████████████████░░░   89.96 % 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Other                    5 hrs 46 mins       ██████████████████░░░░░░░   73.80 % 
+Markdown                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Python                   50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Git                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-Edge                     1 hr 57 mins        █████████████████████████   100.00 % 
+Edge                     7 hrs 5 mins        ███████████████████████░░   90.67 % 
+VS Code                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 
 🐱‍💻 Projects: 
-PCL2-NewsHomepage        47 mins             ██████████░░░░░░░░░░░░░░░   40.18 % 
-beszel                   47 mins             ██████████░░░░░░░░░░░░░░░   39.99 % 
-ASCII-generator          16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-keeptrack.space          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-dpanel                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+beszel                   3 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.08 % 
+PCL2-NewsHomepage        1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+HomepageBuilder          48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+uptime-kuma              44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+akaribot-module-mcim     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 💻 Operating System: 
-Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +94,7 @@ Visual Basic .NET        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2024 18:43:32 UTC
+ Last Updated on 08/12/2024 18:43:20 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
