@@ -15,13 +15,15 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 278.8 kB Used in GitHub's Storage 
+> 📦 279.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 4 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,23 +58,24 @@ Sunday                   64 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs 32 mins       ██████████████████████░░░   88.74 % 
-Python                   1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Other                    13 hrs 35 mins      ███████████████████████░░   90.20 % 
+Python                   1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Edge                     10 hrs 31 mins      ████████████████████████░   97.91 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Edge                     14 hrs 51 mins      █████████████████████████   98.51 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🐱‍💻 Projects: 
-akaribot-module-mcim     2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-GenshinUID               2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-ServerReplay             1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-QueQiao                  1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-mc-plugin                55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+ServerReplay             3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+akaribot-module-mcim     2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+gugle-carpet-addition    2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+GenshinUID               2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+QueQiao                  1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 
 💻 Operating System: 
-Windows                  10 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +95,7 @@ Visual Basic .NET        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 22/01/2025 18:43:50 UTC
+ Last Updated on 23/01/2025 18:43:03 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
