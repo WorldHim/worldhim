@@ -12,7 +12,7 @@
 --------
 [![](https://gh.worldhim.eu.org/api?username=WorldHim&show_icons=true&locale=cn)](https://github.com/WorldHim)
 [![](https://gh.worldhim.eu.org/api/top-langs/?username=WorldHim&locale=cn&layout=donut)](https://github.com/WorldHim)
-[![](https://gh.worldhim.eu.org/api/wakatime?username=WorldHim&locale=cn&layout=compact)](https://wakatime.com/@WorldHim)
+[![](https://gh.worldhim.eu.org/api/wakatime?username=WorldHim&range=last_7_days&locale=cn&layout=compact)](https://wakatime.com/@WorldHim)
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
