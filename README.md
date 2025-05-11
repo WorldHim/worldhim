@@ -17,7 +17,7 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,21 +58,19 @@ Sunday                   73 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 13 mins       ████████████████████████░   95.16 % 
-TypeScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Other                    7 hrs               █████████████████████████   99.92 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Edge                     5 hrs 29 mins       █████████████████████████   100.00 % 
+Edge                     7 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Open93AtHome-Dashboard   4 hrs 4 mins        ███████████████████░░░░░░   74.10 % 
-qmk_firmware             48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-BetterNCM                33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-APK-Installer            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-OIer                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Open93AtHome-Dashboard   7 hrs               █████████████████████████   99.92 % 
+CasioEmuAndroid          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+991CN-X-CW-Decompilation 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +90,7 @@ Go                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2025 18:43:09 UTC
+ Last Updated on 11/05/2025 18:43:49 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
