@@ -17,7 +17,7 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,19 +58,19 @@ Sunday                   73 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 4 mins        █████████████████████████   99.92 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Other                    5 hrs 48 mins       █████████████████████████   99.90 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Edge                     7 hrs 4 mins        █████████████████████████   100.00 % 
+Edge                     5 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Open93AtHome-Dashboard   7 hrs 4 mins        █████████████████████████   99.92 % 
-CasioEmuAndroid          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Open93AtHome-Dashboard   5 hrs 48 mins       █████████████████████████   99.90 % 
+CasioEmuAndroid          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 991CN-X-CW-Decompilation 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  7 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ Go                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2025 18:46:56 UTC
+ Last Updated on 14/05/2025 18:46:47 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
