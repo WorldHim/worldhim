@@ -17,7 +17,7 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,21 +60,21 @@ Sunday                   73 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 18 mins       █████████████████████░░░░   83.84 % 
-TypeScript               49 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Other                    7 hrs 38 mins       ██████████████████████░░░   86.28 % 
+TypeScript               1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
 
 🔥 Editors: 
-Edge                     5 hrs 7 mins        █████████████████████████   100.00 % 
+Edge                     8 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PCL2-CE                  2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.91 % 
-Open93AtHome-Dashboard   1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   27.89 % 
-Coolapk-Lite             42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-RedmiWatch5-ReserchNote  36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-PCL2-NewsHomepage        6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+PCL2-CE                  4 hrs 47 mins       ██████████████░░░░░░░░░░░   54.08 % 
+Open93AtHome-Dashboard   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+CasioEmuNeo              51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Coolapk-Lite             46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+RedmiWatch5-ReserchNote  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 
 💻 Operating System: 
-Windows                  5 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +94,7 @@ Go                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2025 18:44:49 UTC
+ Last Updated on 19/05/2025 18:48:48 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
