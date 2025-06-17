@@ -25,8 +25,6 @@
 
 > 📦 264.0 kB Used in GitHub's Storage 
  > 
-> 🏆 61 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 55 Public Repositories 
@@ -60,16 +58,16 @@ Sunday                   73 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 10 mins       █████████████████████████   100.00 % 
+Other                    3 hrs 8 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     3 hrs 10 mins       █████████████████████████   100.00 % 
+Edge                     3 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-HEU_KMS_Activator        3 hrs 10 mins       █████████████████████████   100.00 % 
+HEU_KMS_Activator        3 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +87,7 @@ Go                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2025 18:50:10 UTC
+ Last Updated on 17/06/2025 18:50:09 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
