@@ -17,13 +17,15 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 264.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 154 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,19 +60,23 @@ Sunday                   85 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 24 mins       █████████████████████████   99.08 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Other                    3 hrs 56 mins       █████████████████████░░░░   84.33 % 
+Python                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Edge                     2 hrs 25 mins       █████████████████████████   100.00 % 
+Edge                     4 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-HEU_KMS_Activator        2 hrs 24 mins       █████████████████████████   99.46 % 
-music-tag-web            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-MaterialFiles            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+HEU_KMS_Activator        2 hrs 25 mins       █████████████░░░░░░░░░░░░   51.92 % 
+PCL2                     1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   33.71 % 
+AdofaiTweaks             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+PCL2-CE                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+PCL2HUB                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 💻 Operating System: 
-Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +96,7 @@ Go                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2025 18:46:20 UTC
+ Last Updated on 23/06/2025 18:50:32 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
