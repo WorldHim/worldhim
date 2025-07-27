@@ -17,15 +17,13 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 264.1 kB Used in GitHub's Storage 
- > 
-> 🏆 70 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,16 +58,25 @@ Sunday                   73 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 44 mins        █████████████████████████   100.00 % 
+Other                    3 hrs 6 mins        ██████████████████░░░░░░░   72.48 % 
+Python                   44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-Edge                     1 hr 44 mins        █████████████████████████   100.00 % 
+Edge                     3 hrs 26 mins       ████████████████████░░░░░   80.10 % 
+VS Code                  51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
 
 🐱‍💻 Projects: 
-HighSchoolMathematics    1 hr 44 mins        █████████████████████████   100.00 % 
+akaribot-module-dnsmanage2 hrs 15 mins       █████████████░░░░░░░░░░░░   52.37 % 
+HighSchoolMathematics    1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   40.40 % 
+PCL2-NewsHomepage        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+akari-bot                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+akaribot-module-mcim     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +96,7 @@ Go                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2025 18:49:59 UTC
+ Last Updated on 27/07/2025 18:50:56 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
