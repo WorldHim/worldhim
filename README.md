@@ -17,13 +17,15 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 264.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 70 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,16 +60,21 @@ Sunday                   74 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    56 mins             █████████████████████████   100.00 % 
+Other                    1 hr 41 mins        ██████████████████████░░░   86.44 % 
+C++                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-Edge                     56 mins             █████████████████████████   100.00 % 
+Edge                     1 hr 45 mins        ██████████████████████░░░   89.16 % 
+VS Code                  12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
 
 🐱‍💻 Projects: 
-HomepageBuilder          56 mins             █████████████████████████   100.00 % 
+HomepageBuilder          1 hr 5 mins         ██████████████░░░░░░░░░░░   55.67 % 
+Text-Grab                38 mins             ████████░░░░░░░░░░░░░░░░░   32.81 % 
+cpp                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +94,7 @@ Go                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2025 18:46:48 UTC
+ Last Updated on 17/08/2025 18:48:24 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
