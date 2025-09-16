@@ -17,8 +17,6 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2025%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -33,45 +31,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                98 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-🌆 Daytime                220 commits         █████████░░░░░░░░░░░░░░░░   34.38 % 
-🌃 Evening                304 commits         ████████████░░░░░░░░░░░░░   47.50 % 
-🌙 Night                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Tuesday                  64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Wednesday                76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Thursday                 85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Friday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Saturday                 202 commits         ████████░░░░░░░░░░░░░░░░░   31.56 % 
-Sunday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    3 hrs 50 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Edge                     3 hrs 50 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-cpp                      3 hrs 50 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  3 hrs 50 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -89,7 +48,7 @@ Go                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2025 18:46:32 UTC
+ Last Updated on 16/09/2025 18:46:18 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
