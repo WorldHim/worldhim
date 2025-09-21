@@ -17,7 +17,7 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -33,6 +33,46 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                98 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+🌆 Daytime                226 commits         █████████░░░░░░░░░░░░░░░░   34.35 % 
+🌃 Evening                316 commits         ████████████░░░░░░░░░░░░░   48.02 % 
+🌙 Night                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Tuesday                  70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Wednesday                88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Thursday                 85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Friday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Saturday                 202 commits         ████████░░░░░░░░░░░░░░░░░   30.70 % 
+Sunday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    5 hrs 50 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Edge                     5 hrs 50 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Cloud-Studio-Chat        4 hrs 2 mins        █████████████████░░░░░░░░   69.30 % 
+cpp                      1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   30.70 % 
+
+💻 Operating System: 
+Windows                  5 hrs 50 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -50,7 +90,7 @@ Go                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 18:41:22 UTC
+ Last Updated on 21/09/2025 18:43:25 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
