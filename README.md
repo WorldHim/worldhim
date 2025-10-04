@@ -17,7 +17,9 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2016%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -31,6 +33,50 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                106 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+🌆 Daytime                237 commits         █████████░░░░░░░░░░░░░░░░   34.70 % 
+🌃 Evening                322 commits         ████████████░░░░░░░░░░░░░   47.14 % 
+🌙 Night                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Tuesday                  65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Wednesday                79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Thursday                 95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Friday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Saturday                 220 commits         ████████░░░░░░░░░░░░░░░░░   32.21 % 
+Sunday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    6 hrs 40 mins       ████████████████████████░   97.98 % 
+C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+
+🔥 Editors: 
+Edge                     6 hrs 48 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+PCL                      5 hrs 19 mins       ████████████████████░░░░░   78.27 % 
+Cloud-Studio-Chat        59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+NapCat-Docker            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+PCL2-CE                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+OpenCut                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+
+💻 Operating System: 
+Windows                  6 hrs 48 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -48,7 +94,7 @@ Go                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 18:45:40 UTC
+ Last Updated on 04/10/2025 18:42:45 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
