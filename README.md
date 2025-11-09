@@ -17,7 +17,7 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -60,18 +60,16 @@ Sunday                   281 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 32 mins        █████████████████████████   99.76 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Other                    12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Edge                     1 hr 32 mins        █████████████████████████   100.00 % 
+Edge                     12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PCL                      1 hr 32 mins        █████████████████████████   99.78 % 
-NapCat-Docker            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+PCL                      12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +89,7 @@ Go                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2025 18:45:11 UTC
+ Last Updated on 09/11/2025 18:43:39 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
