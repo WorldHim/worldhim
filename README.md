@@ -17,7 +17,7 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -60,16 +60,23 @@ Sunday                   286 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 3 mins         █████████████████████████   100.00 % 
+Other                    2 hrs 39 mins       ███████████████████████░░   90.60 % 
+Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Edge                     1 hr 3 mins         █████████████████████████   100.00 % 
+Edge                     2 hrs 46 mins       ████████████████████████░   94.14 % 
+VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🐱‍💻 Projects: 
-read                     1 hr 3 mins         █████████████████████████   100.00 % 
+read                     1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   40.57 % 
+akaribot-module-PCL2Hub  1 hr                █████████░░░░░░░░░░░░░░░░   34.01 % 
+N_m3u8DL-CLI             41 mins             ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+N_m3u8DL-CLI-SimpleG_List2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+N_m3u8DL-RE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
+Windows                  2 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +96,7 @@ Go                       2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2026 19:00:10 UTC
+ Last Updated on 08/02/2026 19:02:20 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
