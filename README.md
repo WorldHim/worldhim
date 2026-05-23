@@ -17,8 +17,6 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2057%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -33,45 +31,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                97 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-🌆 Daytime                237 commits         █████████░░░░░░░░░░░░░░░░   34.35 % 
-🌃 Evening                338 commits         ████████████░░░░░░░░░░░░░   48.99 % 
-🌙 Night                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Tuesday                  67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Wednesday                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Thursday                 105 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Friday                   109 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Saturday                 234 commits         ████████░░░░░░░░░░░░░░░░░   33.91 % 
-Sunday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -89,7 +48,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 20:17:27 UTC
+ Last Updated on 23/05/2026 19:42:45 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
