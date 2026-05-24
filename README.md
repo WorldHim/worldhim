@@ -17,7 +17,9 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2058%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -31,6 +33,45 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                97 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+🌆 Daytime                237 commits         █████████░░░░░░░░░░░░░░░░   34.35 % 
+🌃 Evening                338 commits         ████████████░░░░░░░░░░░░░   48.99 % 
+🌙 Night                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Tuesday                  67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Wednesday                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Thursday                 105 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Friday                   109 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Saturday                 234 commits         ████████░░░░░░░░░░░░░░░░░   33.91 % 
+Sunday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Edge                     0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+motrix-next              0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  0 secs              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -48,7 +89,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2026 19:42:45 UTC
+ Last Updated on 24/05/2026 19:46:12 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
