@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -75,11 +75,11 @@ Windows                  1 hr 39 mins        ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
@@ -89,7 +89,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 19:52:34 UTC
+ Last Updated on 07/06/2026 19:53:20 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
