@@ -1,6 +1,6 @@
 # 👋 Hi, there!
-来自浙江绍兴的中国学生，高强度网上冲浪选手 
-随机捕猎有趣的项目，以给感兴趣的项目写插件 / 写翻译为生
+来自浙江绍兴的中国学生，高强度网上冲浪选手</br>
+随机捕猎有趣的项目，以给感兴趣的项目写插件 / 写翻译为生</br>
 各大平台同名，可以任选一个喜欢的地方找到我 😉
 
 ![](https://api.xecades.xyz/api?email=worldhim%40hotmail.com&github=WorldHim&bilibili=WorldHim&codeforces=WorldHim&luogu=WorldHim&img=2)
