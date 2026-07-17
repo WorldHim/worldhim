@@ -4,7 +4,6 @@
 <div align="center">
 <a herf="https://github.com/WorldHim"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FWorldHim&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600" /></a>
 <a herf="https://steamcommunity.com/profiles/76561199193599352"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561199193599352&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+friends&cacheSeconds=3600" /></a>
-<a herf="https://badges.toozhao.com/stats/01GF5PT6V9X8C5NXK7PWNF2QH3"><img src="https://badges.toozhao.com/badges/01GF5PT6V9X8C5NXK7PWNF2QH3/green.svg" /></a>
 <a href="https://wakatime.com/@WorldHim"><img src="https://wakatime.com/badge/user/f9fa7d0e-335d-4011-b287-4084369d12a0.svg" alt="Total time coded since Aug 6 2024" /></a>
 </div>
 
