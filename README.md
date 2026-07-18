@@ -21,9 +21,9 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%209%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -64,21 +64,23 @@ Sunday                   39 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 8 mins       ███████████████████████░░   90.42 % 
-Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Other                    10 hrs 35 mins      ███████████████████████░░   90.56 % 
+Python                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🔥 Editors: 
-Edge                     12 hrs 18 mins      █████████████████████████   100.00 % 
+Edge                     11 hrs 35 mins      █████████████████████████   99.12 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🐱‍💻 Projects: 
-ExplorerPatcher          4 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   40.54 % 
-PowerToys                3 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-edgetunnel               2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Minecraft-HDR-Mod        1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-ComplementaryReimagined  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+edgetunnel               7 hrs 44 mins       █████████████████░░░░░░░░   66.22 % 
+PowerToys                3 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.79 % 
+PCL2-NewsHomepage        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Sunshine                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+vibeshine                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Windows                  12 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,7 +100,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2026 19:38:33 UTC
+ Last Updated on 18/07/2026 19:39:40 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
