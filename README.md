@@ -21,7 +21,7 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -66,19 +66,21 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 45 mins       ████████████████████████░   95.89 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Other                    8 hrs 2 mins        ████████████████████████░   95.97 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-Edge                     6 hrs               █████████████████████████   100.00 % 
+Edge                     8 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BetterBundleHUDMod       5 hrs 22 mins       ██████████████████████░░░   89.56 % 
-edgetunnel               37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-MasaGadget               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+BetterBundleHUDMod       6 hrs 19 mins       ███████████████████░░░░░░   75.51 % 
+Litematica-viewer        1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+edgetunnel               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+RoughlyEnoughItems       14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+better-genshin-impact    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 💻 Operating System: 
-Windows                  6 hrs               █████████████████████████   100.00 % 
+Windows                  8 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,7 +106,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 19:41:08 UTC
+ Last Updated on 02/08/2026 19:41:42 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
