@@ -66,31 +66,31 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    19 hrs 32 mins      ████████████████████████░   96.30 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    21 hrs 20 mins      ████████████████████████░   97.62 % 
+Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Edge                     20 hrs 7 mins       █████████████████████████   99.23 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Edge                     21 hrs 42 mins      █████████████████████████   99.28 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🐱‍💻 Projects: 
-better-genshin-impact    9 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.57 % 
-BetterBundleHUDMod       6 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.18 % 
-d:                       2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Litematica-viewer        1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Arm.FnWol                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+better-genshin-impact    9 hrs 51 mins       ███████████░░░░░░░░░░░░░░   45.08 % 
+d:                       5 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+BetterBundleHUDMod       4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+Litematica-viewer        1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Arm.FnWol                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 💻 Operating System: 
-Windows                  20 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (0.15%)
+⏱ AI Coding Time: 1 min (0.14%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
@@ -124,7 +124,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:22:12 UTC
+ Last Updated on 07/08/2026 19:26:53 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
