@@ -21,7 +21,7 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
@@ -66,31 +66,31 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    20 hrs 36 mins      ████████████████████████░   97.41 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    17 hrs 48 mins      ████████████████████████░   97.52 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Edge                     21 hrs              █████████████████████████   99.26 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Edge                     18 hrs 5 mins       █████████████████████████   99.11 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🐱‍💻 Projects: 
-better-genshin-impact    9 hrs 45 mins       ████████████░░░░░░░░░░░░░   46.09 % 
-d:                       8 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.74 % 
-BewlyBewly               1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Arm.FnWol                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Litematica-viewer        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+d:                       8 hrs 49 mins       ████████████░░░░░░░░░░░░░   48.37 % 
+better-genshin-impact    6 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.71 % 
+BewlyBewly               1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Litematica-viewer        36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Arm.FnWol                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 💻 Operating System: 
-Windows                  21 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  18 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (0.14%)
+⏱ AI Coding Time: 2 mins (0.19%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
@@ -98,11 +98,11 @@ Windows                  21 hrs 9 mins       ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 22 characters per prompt
+📝 Concise Prompter — average 28 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -124,7 +124,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 19:10:27 UTC
+ Last Updated on 10/08/2026 19:28:52 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
