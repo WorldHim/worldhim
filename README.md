@@ -21,7 +21,7 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
@@ -66,23 +66,23 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 59 mins      ████████████████████████░   94.47 % 
-HTML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Other                    11 hrs 16 mins      ███████████████████████░░   91.09 % 
+HTML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-Edge                     11 hrs 38 mins      █████████████████████████   99.95 % 
+Edge                     12 hrs 22 mins      █████████████████████████   99.95 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-d:                       3 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.24 % 
-cline-chinese            1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-BewlyBewly               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Genshin_StarRail_fps_unlo1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Starward                 1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Genshin_StarRail_fps_unlo2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+cline-chinese            1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+BewlyBewly               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+d:                       1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Starward                 1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
 
 💻 Operating System: 
-Windows                  11 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -122,7 +122,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 18:54:14 UTC
+ Last Updated on 16/08/2026 18:53:38 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
