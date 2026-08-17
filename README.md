@@ -66,29 +66,29 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 16 mins      ███████████████████████░░   91.09 % 
-HTML                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Other                    7 hrs 56 mins       ██████████████████████░░░   89.14 % 
+HTML                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-Edge                     12 hrs 22 mins      █████████████████████████   99.95 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Edge                     8 hrs 53 mins       █████████████████████████   99.94 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-Genshin_StarRail_fps_unlo2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-cline-chinese            1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-BewlyBewly               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-d:                       1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Starward                 1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Genshin_StarRail_fps_unlo2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+cline-chinese            1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+Starward                 1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+RivaTuner-Statistics-Serv48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+DontDoIt                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 
 💻 Operating System: 
-Windows                  12 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.05%)
+⏱ AI Coding Time: 0 secs (0.06%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -122,7 +122,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 18:53:38 UTC
+ Last Updated on 17/08/2026 19:06:38 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
