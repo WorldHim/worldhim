@@ -66,21 +66,21 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 50 mins       ██████████████████████░░░   87.76 % 
-HTML                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Other                    8 hrs 16 mins       ███████████████████████░░   91.12 % 
+HTML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 
 🔥 Editors: 
-Edge                     7 hrs 47 mins       █████████████████████████   100.00 % 
+Edge                     9 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Genshin_StarRail_fps_unlo2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-DontDoIt                 1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Starward                 1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-RivaTuner-Statistics-Serv48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-FanControl.Releases      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+course-viz               2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   30.48 % 
+Genshin_StarRail_fps_unlo2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+DontDoIt                 1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Starward                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+RivaTuner-Statistics-Serv48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 💻 Operating System: 
-Windows                  7 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -106,7 +106,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:01:12 UTC
+ Last Updated on 20/08/2026 19:09:41 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
