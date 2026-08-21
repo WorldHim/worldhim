@@ -21,7 +21,7 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
@@ -66,21 +66,21 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 16 mins       ███████████████████████░░   91.12 % 
-HTML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Other                    6 hrs 15 mins       ███████████████████████░░   92.23 % 
+HTML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 
 🔥 Editors: 
-Edge                     9 hrs 5 mins        █████████████████████████   100.00 % 
+Edge                     6 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-course-viz               2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   30.48 % 
-Genshin_StarRail_fps_unlo2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-DontDoIt                 1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Starward                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-RivaTuner-Statistics-Serv48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+course-viz               3 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.44 % 
+DontDoIt                 1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+RivaTuner-Statistics-Serv48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Genshin_StarRail_fps_unlo36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+FanControl.Releases      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 
 💻 Operating System: 
-Windows                  9 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -106,7 +106,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 19:09:41 UTC
+ Last Updated on 21/08/2026 19:05:45 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
