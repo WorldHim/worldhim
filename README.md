@@ -66,21 +66,23 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 53 mins       ███████████████████████░░   93.16 % 
-HTML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Other                    9 hrs 40 mins       ████████████████████████░   95.46 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-Edge                     8 hrs 28 mins       █████████████████████████   100.00 % 
+Edge                     10 hrs 4 mins       █████████████████████████   99.40 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🐱‍💻 Projects: 
-course-viz               3 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.98 % 
-DontDoIt                 1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Open-Browser             1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-RivaTuner-Statistics-Serv48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Genshin_StarRail_fps_unlo36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+course-viz               3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.76 % 
+TeyvatGuide              3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.53 % 
+Open-Browser             1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+DontDoIt                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Moonward                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 💻 Operating System: 
-Windows                  8 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -106,7 +108,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 18:56:16 UTC
+ Last Updated on 23/08/2026 18:55:30 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
