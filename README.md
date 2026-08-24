@@ -21,7 +21,7 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
@@ -66,23 +66,23 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs 40 mins       ████████████████████████░   95.46 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Other                    11 hrs 20 mins      █████████████████████░░░░   83.67 % 
+JSON                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-Edge                     10 hrs 4 mins       █████████████████████████   99.40 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Edge                     13 hrs 29 mins      █████████████████████████   99.55 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🐱‍💻 Projects: 
-course-viz               3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.76 % 
-TeyvatGuide              3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.53 % 
-Open-Browser             1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-DontDoIt                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Moonward                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+TeyvatGuide              4 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.24 % 
+course-viz               3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Open-Browser             1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+quantoflx                1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+DontDoIt                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 💻 Operating System: 
-Windows                  10 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,7 +108,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:55:30 UTC
+ Last Updated on 24/08/2026 19:09:02 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
