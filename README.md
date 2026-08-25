@@ -66,23 +66,23 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 20 mins      █████████████████████░░░░   83.67 % 
-JSON                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Other                    11 hrs 51 mins      █████████████████████░░░░   84.26 % 
+JSON                     1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-Edge                     13 hrs 29 mins      █████████████████████████   99.55 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Edge                     14 hrs              █████████████████████████   99.57 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-TeyvatGuide              4 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.24 % 
-course-viz               3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Open-Browser             1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-quantoflx                1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-DontDoIt                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+TeyvatGuide              4 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   32.03 % 
+course-viz               3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+quantoflx                2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Open-Browser             1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+DontDoIt                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 💻 Operating System: 
-Windows                  13 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,7 +108,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:09:02 UTC
+ Last Updated on 25/08/2026 19:07:24 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
