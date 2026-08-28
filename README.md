@@ -66,23 +66,23 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    18 hrs 50 mins      █████████████████████░░░░   85.79 % 
-JSON                     2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Other                    19 hrs 15 mins      ██████████████████████░░░   86.22 % 
+JSON                     2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+HTML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-Edge                     21 hrs 54 mins      █████████████████████████   99.73 % 
+Edge                     22 hrs 16 mins      █████████████████████████   99.73 % 
 VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 Projects: 
-TeyvatGuide              4 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-quantoflx                3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-now-playing-service      3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-astrbot_plugin_iris_chat_2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Open-Browser             1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+TeyvatGuide              4 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+quantoflx                3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+astrbot_plugin_iris_chat_3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+now-playing-service      3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Open-Browser             1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 
 💻 Operating System: 
-Windows                  21 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,7 +108,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:25:48 UTC
+ Last Updated on 28/08/2026 02:14:57 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
