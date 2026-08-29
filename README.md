@@ -66,23 +66,21 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    22 hrs 5 mins       ██████████████████████░░░   87.74 % 
-JSON                     2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Other                    18 hrs 10 mins      ██████████████████████░░░   86.87 % 
+JSON                     2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 
 🔥 Editors: 
-Edge                     25 hrs 6 mins       █████████████████████████   99.76 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Edge                     20 hrs 55 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_iris_chat_7 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   30.54 % 
-TeyvatGuide              4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-quantoflx                3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-now-playing-service      3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-napcat-plugin-gscore-adap1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+astrbot_plugin_iris_chat_7 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.74 % 
+quantoflx                3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+now-playing-service      3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+TeyvatGuide              1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+napcat-plugin-gscore-adap1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 💻 Operating System: 
-Windows                  25 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,7 +106,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 01:49:32 UTC
+ Last Updated on 29/08/2026 21:03:09 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
