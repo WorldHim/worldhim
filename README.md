@@ -66,21 +66,21 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    18 hrs 10 mins      ██████████████████████░░░   86.87 % 
-JSON                     2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Other                    17 hrs 24 mins      ████████████████████████░   94.61 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🔥 Editors: 
-Edge                     20 hrs 55 mins      █████████████████████████   100.00 % 
+Edge                     18 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_iris_chat_7 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.74 % 
-quantoflx                3 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-now-playing-service      3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-TeyvatGuide              1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-napcat-plugin-gscore-adap1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+astrbot_plugin_iris_chat_7 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   41.77 % 
+now-playing-service      3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+quantoflx                2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+AriaNg                   1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+napcat-plugin-gscore-adap1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 
 💻 Operating System: 
-Windows                  20 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -106,7 +106,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 21:03:09 UTC
+ Last Updated on 30/08/2026 21:19:03 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
