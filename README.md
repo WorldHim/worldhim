@@ -21,7 +21,7 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
@@ -66,21 +66,22 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    20 hrs 1 min        ████████████████████████░   96.32 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Other                    15 hrs 42 mins      ████████████████████████░   96.82 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
-Edge                     20 hrs 47 mins      █████████████████████████   100.00 % 
+Edge                     16 hrs 12 mins      █████████████████████████   99.98 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_iris_chat_7 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.99 % 
-AriaNg                   7 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.38 % 
-now-playing-service      2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-napcat-plugin-gscore-adap1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-get_device_info          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+AriaNg                   8 hrs 39 mins       █████████████░░░░░░░░░░░░   53.34 % 
+astrbot_plugin_iris_chat_4 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   30.48 % 
+Mediawiki-to-MDX-docusaur2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+mediawiki-to-gfm         28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+pandoc                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  20 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -106,7 +107,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 21:11:40 UTC
+ Last Updated on 02/09/2026 21:12:04 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
