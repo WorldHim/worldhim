@@ -66,32 +66,32 @@ Sunday                   43 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    16 hrs 58 mins      █████████████████░░░░░░░░   69.86 % 
-Markdown                 2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-YAML                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-TypeScript               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Other                    19 hrs 6 mins       ██████████████████░░░░░░░   72.29 % 
+Markdown                 2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+YAML                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+TypeScript               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-Edge                     19 hrs 56 mins      █████████████████████░░░░   82.08 % 
-VS Code                  3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-CLI                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Edge                     22 hrs 4 mins       █████████████████████░░░░   83.52 % 
+VS Code                  3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+CLI                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 
 🐱‍💻 Projects: 
-wikilake                 12 hrs 30 mins      █████████████░░░░░░░░░░░░   51.47 % 
-AriaNg                   8 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.61 % 
-Mediawiki-to-MDX-docusaur2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-mediawiki-to-markdown    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-mediawiki-to-gfm         28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+wikilake                 15 hrs 37 mins      ███████████████░░░░░░░░░░   59.11 % 
+AriaNg                   7 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+Mediawiki-to-MDX-docusaur2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+mediawiki-to-markdown    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+mediawiki-to-gfm         28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Windows                  24 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 42 mins (7.04%)
+⏱ AI Coding Time: 1 hr 42 mins (6.47%)
 
 ✍️ 0 lines written by AI, 282 lines written by hand (0.0% AI-written)
 
@@ -127,7 +127,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:32:34 UTC
+ Last Updated on 06/09/2026 20:36:16 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
