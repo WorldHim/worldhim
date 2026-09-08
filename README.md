@@ -21,9 +21,9 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -31,31 +31,31 @@
 
 > 📦 264.8 kB Used in GitHub's Storage 
  > 
-> 🏆 72 Contributions in the Year 2026
+> 🏆 76 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 55 Public Repositories 
+> 📜 56 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-🌆 Daytime                367 commits         ████████░░░░░░░░░░░░░░░░░   32.97 % 
-🌃 Evening                612 commits         ██████████████░░░░░░░░░░░   54.99 % 
-🌙 Night                  29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+🌞 Morning                105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+🌆 Daytime                368 commits         ████████░░░░░░░░░░░░░░░░░   33.00 % 
+🌃 Evening                613 commits         ██████████████░░░░░░░░░░░   54.98 % 
+🌙 Night                  29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Tuesday                  62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Wednesday                72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Thursday                 434 commits         ██████████░░░░░░░░░░░░░░░   38.99 % 
-Friday                   207 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Saturday                 241 commits         █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Monday                   54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Tuesday                  64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Wednesday                72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Thursday                 434 commits         ██████████░░░░░░░░░░░░░░░   38.92 % 
+Friday                   207 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Saturday                 241 commits         █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
 Sunday                   43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 ```
 
@@ -66,58 +66,58 @@ Sunday                   43 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 hrs 32 mins      ██████████████████░░░░░░░   73.89 % 
-Markdown                 3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-YAML                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-TypeScript               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-JSON                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Other                    23 hrs 13 mins      ████████████████░░░░░░░░░   62.50 % 
+Markdown                 5 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Python                   3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+YAML                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+TypeScript               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🔥 Editors: 
-Edge                     24 hrs 42 mins      █████████████████████░░░░   84.77 % 
-VS Code                  3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-CLI                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Edge                     27 hrs 56 mins      ███████████████████░░░░░░   75.19 % 
+VS Code                  5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+CLI                      4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 
 🐱‍💻 Projects: 
-wikilake                 19 hrs 57 mins      █████████████████░░░░░░░░   68.47 % 
-AriaNg                   5 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Mediawiki-to-MDX-docusaur2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-mediawiki-to-markdown    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-mediawiki-to-gfm         28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+wikilake                 22 hrs 36 mins      ███████████████░░░░░░░░░░   60.85 % 
+astrbot_plugin_course    5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Mediawiki-to-MDX-docusaur2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+AriaNg                   1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+astrbot_plugin_CourseSche1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 💻 Operating System: 
-Windows                  29 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  37 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 42 mins (5.87%)
+⏱ AI Coding Time: 5 hrs 45 mins (15.51%)
 
-✍️ 0 lines written by AI, 282 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 339 lines written by hand (0.0% AI-written)
 
-🔤 26,546,563 Input Tokens, 320,922 Output Tokens
+🔤 137,322,980 Input Tokens, 897,717 Output Tokens
 
-💵 $92.24 Estimated AI Cost This Week
+💵 $465.93 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 49 AI Prompts
+🧠 11 AI Sessions, 314 AI Prompts
 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 401 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📄 Detailed Prompter — average 1,200 characters per prompt
+🔁 Iterative Prompter — average 29 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
-TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -127,7 +127,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:39:24 UTC
+ Last Updated on 08/09/2026 21:18:16 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
