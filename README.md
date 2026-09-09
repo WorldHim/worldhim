@@ -21,9 +21,9 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -66,46 +66,46 @@ Sunday                   43 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    23 hrs 13 mins      ████████████████░░░░░░░░░   62.50 % 
-Markdown                 5 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Python                   3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-YAML                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-TypeScript               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Other                    24 hrs 45 mins      ████████████████░░░░░░░░░   62.91 % 
+Markdown                 6 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Python                   3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+YAML                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+TypeScript               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 🔥 Editors: 
-Edge                     27 hrs 56 mins      ███████████████████░░░░░░   75.19 % 
-VS Code                  5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-CLI                      4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Edge                     29 hrs 48 mins      ███████████████████░░░░░░   75.72 % 
+VS Code                  5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+CLI                      4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
 
 🐱‍💻 Projects: 
-wikilake                 22 hrs 36 mins      ███████████████░░░░░░░░░░   60.85 % 
-astrbot_plugin_course    5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Mediawiki-to-MDX-docusaur2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-AriaNg                   1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-astrbot_plugin_CourseSche1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+wikilake                 25 hrs 25 mins      ████████████████░░░░░░░░░   64.59 % 
+astrbot_plugin_course    6 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+astrbot_plugin_obsidian_w1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+astrbot_plugin_CourseSche1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+AstrBot                  1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 💻 Operating System: 
-Windows                  37 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  39 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 45 mins (15.51%)
+⏱ AI Coding Time: 6 hrs 3 mins (15.38%)
 
-✍️ 0 lines written by AI, 339 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 342 lines written by hand (0.0% AI-written)
 
-🔤 137,322,980 Input Tokens, 897,717 Output Tokens
+🔤 148,098,938 Input Tokens, 942,376 Output Tokens
 
-💵 $465.93 Estimated AI Cost This Week
+💵 $501.85 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 314 AI Prompts
+🧠 12 AI Sessions, 351 AI Prompts
 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,200 characters per prompt
+📄 Detailed Prompter — average 1,214 characters per prompt
 🔁 Iterative Prompter — average 29 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -127,7 +127,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 21:18:16 UTC
+ Last Updated on 09/09/2026 21:04:05 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
