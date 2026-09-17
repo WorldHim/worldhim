@@ -21,7 +21,7 @@
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@output/github-snake.svg)](https://github.com/WorldHim)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2048%20mins-blue?style=flat)
 
@@ -66,49 +66,49 @@ Sunday                   44 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    20 hrs 43 mins      ██████████████████░░░░░░░   73.03 % 
-Python                   4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Markdown                 1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Other                    17 hrs 18 mins      █████████████████░░░░░░░░   68.79 % 
+Python                   4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Markdown                 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-Edge                     22 hrs 25 mins      ████████████████████░░░░░   79.00 % 
-CLI                      4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-VS Code                  1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Edge                     18 hrs 53 mins      ███████████████████░░░░░░   75.14 % 
+CLI                      3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+VS Code                  2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_archiver  9 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.11 % 
-astrbot_plugin_latex_rend4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-ServerReplay             3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-mcstatus                 2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-FanControl.Releases      1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+astrbot_plugin_archiver  9 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   38.49 % 
+FanControl.Releases      4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+ServerReplay             3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+mcstatus                 2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+ConstructionChallenge    1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 💻 Operating System: 
-Windows                  28 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 39 mins (19.94%)
+⏱ AI Coding Time: 5 hrs 9 mins (20.48%)
 
-✍️ 259 lines written by AI, 34 lines written by hand (88.4% AI-written)
+✍️ 259 lines written by AI, 43 lines written by hand (85.76% AI-written)
 
-🔤 179,044,241 Input Tokens, 898,858 Output Tokens
+🔤 154,385,559 Input Tokens, 746,750 Output Tokens
 
-💵 $610.71 Estimated AI Cost This Week
+💵 $522.78 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 401 AI Prompts
+🧠 10 AI Sessions, 350 AI Prompts
 
 Opencode-Cli             386 lines           █████████████████████████   100.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.4% of written lines came from AI
-📄 Detailed Prompter — average 1,259 characters per prompt
-🔁 Iterative Prompter — average 36 prompts per session
-🚀 High AI Trust — 11.06% of changed lines were hand-edited
+🤖 AI-Driven — 85.76% of written lines came from AI
+📄 Detailed Prompter — average 1,187 characters per prompt
+🔁 Iterative Prompter — average 35 prompts per session
+🚀 High AI Trust — 13.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,7 +128,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/WorldHim/WorldHim/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 21:29:59 UTC
+ Last Updated on 17/09/2026 21:34:34 UTC
 <!--END_SECTION:waka-->
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
