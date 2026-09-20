@@ -6,6 +6,6 @@
 
 ---
 
-[![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/github-metrics.svg)](https://github.com/WorldHim)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 [![](https://fastly.jsdelivr.net/gh/WorldHim/worldhim@main/assets/bottom.svg)](https://github.com/WorldHim)
